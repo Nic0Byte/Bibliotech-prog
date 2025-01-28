@@ -24,8 +24,8 @@
         title="Famoso"
         publisher="Island Records"
         year="2020"
-        author="Sfera Ebbasta"
+        artist="Sfera Ebbasta"
         genre="Trap"
-        tracks="13"
+        trackCount="13"
     />
 </Biblioteca>
